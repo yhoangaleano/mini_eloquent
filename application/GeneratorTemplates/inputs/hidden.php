@@ -1,0 +1,1 @@
+<input type="hidden" class="form-control" id="{{inputName}}" name="{{inputName}}" placeholder="Entrada {{label}}">
